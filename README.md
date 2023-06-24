@@ -1,0 +1,1 @@
+Heres how to add these, extract the file, copy every asset, than go to your wrapper offline folder, make sure that the destination is C:\Wrapper-Offline\server\store\3a981f5cb2739137\cc_store\family, then paste, if it says that some of the files are there, press skip the files, reboot your wrapper offline. 
